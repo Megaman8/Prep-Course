@@ -1,0 +1,19 @@
+Variables:
+
+Las variables son como cajas que usamos para guardar cosas en ellas. Por ejemplo, podríamos tener una caja llamada "edad" y guardar en ella un número que represente nuestra edad. Luego, podemos usar esa caja para hacer cosas como calcular cuántos años tenemos en el futuro. Las variables son útiles porque nos permiten guardar y usar información de manera fácil.
+
+Strings:
+
+Las strings son un tipo de dato que se utiliza para guardar palabras o frases. Por ejemplo, podríamos tener una string llamada "nombre" y guardar en ella nuestro nombre. Las strings se escriben entre comillas para que el programa sepa que son una palabra o frase.
+
+Funciones:
+
+Las funciones son como máquinas que hacen cosas específicas. Podemos darle a la función algunas "instrucciones" (que se llaman argumentos) y la función las seguirá y nos dará un "resultado" (que se llama return). Por ejemplo, podríamos tener una función llamada "suma" que suma dos números y nos devuelve el resultado.
+
+Declaraciones (if):
+
+Las declaraciones if son como preguntas que hacemos al programa. Le decimos al programa que haga algo si la respuesta a la pregunta es "sí", y haga otra cosa si la respuesta es "no". Por ejemplo, podríamos preguntarle al programa "¿tienes más de 12 años?" y decirle que haga una cosa si la respuesta es "sí" y otra cosa si la respuesta es "no".
+
+Valores booleanos (true, false):
+
+Los valores booleanos son como "sí" o "no" para el programa. Podemos usarlos para hacer preguntas al programa o para decirle al programa que haga algo si la respuesta es "sí" o "no". Los valores booleanos se escriben como "true" para "sí" y "false" para "no".
